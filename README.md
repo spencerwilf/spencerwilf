@@ -1,6 +1,8 @@
 ### Welcome to my Github! 👋
 
-Hi, I'm Spencer!
+Hi, I'm Spencer! I'm a full stack software engineer and recent graduate from UC Santa Barbara who is seeking to work on meaningful, cutting-edge technology with great people. Aside from developing software, I also have experience in marketing, finance and e-commerce and would be excited to bring my diverse experiences to a dynamic team.
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
