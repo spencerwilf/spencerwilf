@@ -27,7 +27,7 @@ Hi, I'm Spencer, a full-stack software engineer and recent graduate from UC Sant
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40"/>&nbsp;
   </div>
   
-  
+  &nbsp;
   
   
 ### :hammer_and_wrench: Frameworks and Tools
