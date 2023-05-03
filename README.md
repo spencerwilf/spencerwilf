@@ -10,6 +10,12 @@
 </div>
 
 
+<p align="center">
+<img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand@2x.gif" title="hand" alt="hand" width="40" height="40"/>
+  <p>Welcome to my Github!</p>
+</p>
+
+
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/spencer-wilfahrt-1a4604156/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
