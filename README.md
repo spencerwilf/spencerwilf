@@ -11,6 +11,7 @@
   </a>
 </div>
 
+&nbsp;
 
 
 Hi, I'm Spencer, a full-stack software engineer and recent graduate from UC Santa Barbara who is seeking to work on meaningful, cutting-edge projects with great people. Aside from developing software, I also have experience in marketing, finance and e-commerce and would be excited to bring my diverse experiences to a dynamic team.
