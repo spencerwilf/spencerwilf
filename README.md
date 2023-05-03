@@ -8,10 +8,8 @@
     <img src="https://img.shields.io/badge/angellist-black?style=for-the-badge&logo=angellist&logoColor=white" alt="Angellist Badge"/>
   </a>
 </div>
+
 ---
-
-
-
 
 Hi, I'm Spencer, a full-stack software engineer and recent graduate from UC Santa Barbara who is seeking to work on meaningful, cutting-edge projects with great people. Aside from developing software, I also have experience in marketing, finance and e-commerce and would be excited to bring my diverse experiences to a dynamic team.
 
