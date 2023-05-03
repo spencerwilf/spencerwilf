@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/angellist-black?style=for-the-badge&logo=angellist&logoColor=white" alt="Angellist Badge"/>
   </a>
 </div>
+---
 
 
 
