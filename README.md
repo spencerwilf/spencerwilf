@@ -1,4 +1,4 @@
-<div>
+<div display="flex">
  <h2> Welcome to my Github!</h2>
 <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand@2x.gif" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  </div>
