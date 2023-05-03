@@ -41,6 +41,8 @@ Hi, I'm Spencer, a full-stack software engineer and recent graduate from UC Sant
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" **alt="docker" width="40" height="40"/>
 </div>
 
+---
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spencerwilf&theme=dark&background=000000)](https://git.io/streak-stats)
 
