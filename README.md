@@ -1,6 +1,8 @@
-### Welcome to my Github! 👋
+<div>
+### Welcome to my Github!
 
 <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand@2x.gif" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ </div>
 
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/spencer-wilfahrt-1a4604156/">
