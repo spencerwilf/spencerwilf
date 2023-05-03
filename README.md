@@ -5,8 +5,8 @@
  
  
  <div style="display:flex; align-items:center;">
-  <img src="your-image-url" alt="image description" width="100" height="100">
-  <p>Here is some text to display alongside the image.</p>
+<img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand@2x.gif" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <p>Welcome to my Github!</p>
 </div>
 
 
