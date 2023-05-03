@@ -1,6 +1,15 @@
 ### Welcome to my Github! 👋
 
-Hi, I'm Spencer! I'm a full stack software engineer and recent graduate from UC Santa Barbara who is seeking to work on meaningful, cutting-edge technology with great people. Aside from developing software, I also have experience in marketing, finance and e-commerce and would be excited to bring my diverse experiences to a dynamic team.
+<div id="badges">
+  <a target="_blank" href="https://www.linkedin.com/in/spencer-wilfahrt-1a4604156/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a target="_blank" href="https://wellfound.com/u/spencer-wilfahrt">
+    <img src="https://img.shields.io/badge/angellist-black?style=for-the-badge&logo=angellist&logoColor=white" alt="Angellist Badge"/>
+  </a>
+</div>
+
+Hi, I'm Spencer, a full-stack software engineer and recent graduate from UC Santa Barbara who is seeking to work on meaningful, cutting-edge projects with great people. Aside from developing software, I also have experience in marketing, finance and e-commerce and would be excited to bring my diverse experiences to a dynamic team.
 
 ### 🗣️ Languages
 <div>
@@ -21,14 +30,7 @@ Hi, I'm Spencer! I'm a full stack software engineer and recent graduate from UC 
 
 
 
-<div id="badges">
-  <a target="_blank" href="https://www.linkedin.com/in/spencer-wilfahrt-1a4604156/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a target="_blank" href="https://wellfound.com/u/spencer-wilfahrt">
-    <img src="https://img.shields.io/badge/angellist-black?style=for-the-badge&logo=angellist&logoColor=white" alt="Angellist Badge"/>
-  </a>
-</div>
+
 
 <!--
 **spencerwilf/spencerwilf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
