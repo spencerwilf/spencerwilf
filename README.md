@@ -1,19 +1,5 @@
-<div display:"flex">
- <h2> Welcome to my Github!</h2>
-<img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand@2x.gif" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- </div>
- 
- 
- <div style="display:flex; align-items:center;">
-<img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand@2x.gif" title="hand" alt="hand" width="40" height="40"/>
-  <p>Welcome to my Github!</p>
-</div>
+## Welcome to my Github! 👋
 
-
-<p align="center">
-<img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand@2x.gif" title="hand" alt="hand" width="40" height="40"/>
-  <p>Welcome to my Github!</p>
-</p>
 
 
 <div id="badges">
