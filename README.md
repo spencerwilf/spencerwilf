@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my Github! 👋
+
+Hi, I'm Spencer!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
