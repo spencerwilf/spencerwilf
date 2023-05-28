@@ -17,18 +17,6 @@
 Hey there! I'm Spencer, a full-stack software engineer and recent graduate from UC Santa Barbara who is seeking to work on meaningful, cutting-edge projects with great people. Aside from developing software, I also have experience in marketing, finance and e-commerce and would be excited to bring my diverse experiences to a dynamic team.
 
 ---
-
-### 🗣️ Languages
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40"/>&nbsp;
-  </div>
-  
-  &nbsp;
-  
   
   <h2 align="center">Languages</h2>
 <p align="center"> 
@@ -38,7 +26,7 @@ Hey there! I'm Spencer, a full-stack software engineer and recent graduate from 
 
   <h2 align="center">Frameworks and Tools</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,redux,flask,webpack,github,postgres,sqlite,babel,vscode,git,html,postman&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,express,sequelize,docker,flask,webpack,nodejs,postgres,aws,babel,sqlalchemy,git,socketio,postman&perline=7"/>
 </p>
   
   
