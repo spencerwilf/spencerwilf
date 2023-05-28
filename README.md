@@ -20,31 +20,16 @@ Hey there! I'm Spencer, a full-stack software engineer and recent graduate from 
   
   <h2 align="center">Languages</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,py,html,css&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,solidity&perline=7"/>
 </p>
 
 
   <h2 align="center">Frameworks and Tools</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,redux,express,sequelize,docker,flask,webpack,nodejs,postgres,aws,babel,git,solidity,postman&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,express,sequelize,docker,flask,webpack,nodejs,postgres,aws,babel,git,postman&perline=7"/>
 </p>
   
-  
-### :hammer_and_wrench: Frameworks and Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" **alt="flask" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgres" **alt="postgres" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" **alt="sqlalchemy" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="socket" **alt="socket" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" **alt="express" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="sequelize" **alt="sequelize" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" **alt="docker" width="40" height="40"/>
-</div>
+ 
 
 ---
 
