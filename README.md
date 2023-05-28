@@ -36,13 +36,6 @@ Hey there! I'm Spencer, a full-stack software engineer and recent graduate from 
 </p>
 
 
-  <h2 align="center">Tools</h2>
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,py,html,css&perline=7"/>
-</p>
-
-
-
   <h2 align="center">Frameworks and Tools</h2>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=react,redux,flask,webpack,github,postgres,sqlite,babel,vscode,git,html,postman&perline=7"/>
