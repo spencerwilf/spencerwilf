@@ -16,7 +16,6 @@
 
 <p align='center'>Hey there! I'm Spencer, a full-stack software engineer and recent graduate from UC Santa Barbara who is seeking to work on meaningful, cutting-edge projects with great people. Aside from developing software, I also have experience in marketing, finance and e-commerce and would be excited to bring my diverse experiences to a dynamic team.</p>
 
----
   
   <h2 align="center">Languages</h2>
 <p align="center"> 
