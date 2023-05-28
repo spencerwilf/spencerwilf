@@ -26,7 +26,7 @@ Hey there! I'm Spencer, a full-stack software engineer and recent graduate from 
 
   <h2 align="center">Frameworks and Tools</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,redux,express,sequelize,docker,flask,webpack,nodejs,postgres,aws,babel,sqlalchemy,git,socketio,postman&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=react,redux,express,sequelize,docker,flask,webpack,nodejs,postgres,aws,babel,git,socketio,postman&perline=7"/>
 </p>
   
   
