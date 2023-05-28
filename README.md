@@ -38,7 +38,7 @@ Hey there! I'm Spencer, a full-stack software engineer and recent graduate from 
 
   <h2 align="center">Tools</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,py,sql,html,css&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=js,py,html,css&perline=7"/>
 </p>
 
 
