@@ -1,4 +1,4 @@
-<h1>Welcome to my Github!</h1>
+<h1 align='center'>Welcome to my Github!</h1>
 
 <div align='center' id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/spencer-wilfahrt-1a4604156/">
