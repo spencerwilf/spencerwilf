@@ -30,6 +30,12 @@ Hey there! I'm Spencer, a full-stack software engineer and recent graduate from 
   &nbsp;
   
   
+  <h1 align="center"> </h1>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=react,redux,js,py,flask,webpack,github,postgres,sqlite,babel,vscode,git,html,postman&perline=7"/>
+</p>
+  
+  
 ### :hammer_and_wrench: Frameworks and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
